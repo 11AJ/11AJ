@@ -9,7 +9,7 @@
 - I'm currently pursuing my B.Tech in Computer Science  
   
 
-- 🌱 I’m currently ReactJS   
+- 🌱 I’m currently learning ReactJS   
   
 
 <br/>  
