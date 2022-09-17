@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Abhishek Choundyaan, a Front End Developer and Data Scientist👨‍💻🚀</div>  
+### <div align="center">I'm Abhishek Choundyaan, a Front End Developer and Data Scientist👨‍💻🚀</div> 
   
 
 - I'm currently pursuing my B.Tech in Computer Science  
